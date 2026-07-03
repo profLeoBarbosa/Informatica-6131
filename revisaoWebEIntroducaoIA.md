@@ -25,7 +25,7 @@ Por meio da Internet é possível:
 
 Um navegador é o programa utilizado para acessar páginas da Internet.
 
-Exemplos de navegadores:
+Exemplos:
 
 -   Google Chrome
 -   Microsoft Edge
@@ -33,20 +33,21 @@ Exemplos de navegadores:
 -   Opera
 -   Safari
 
-O navegador interpreta o conteúdo dos sites e o apresenta de forma
-organizada para o usuário.
+O navegador interpreta o conteúdo dos sites e apresenta páginas da
+Internet de forma organizada para o usuário.
 
 ------------------------------------------------------------------------
 
 ### URL
 
-A URL é o endereço de uma página da Internet.
+A URL (Uniform Resource Locator) é o endereço de uma página na Internet.
 
 Exemplo:
 
-https://www.gov.br
+    https://www.gov.br
 
-Cada página possui uma URL própria, que permite localizá-la na Internet.
+Cada página possui uma URL própria, permitindo que seja localizada por
+qualquer navegador.
 
 ------------------------------------------------------------------------
 
@@ -60,8 +61,8 @@ Exemplos:
 -   Bing
 -   DuckDuckGo
 
-Quanto mais específica for a pesquisa, melhores tendem a ser os
-resultados encontrados.
+Quanto mais específica for uma pesquisa, maiores são as chances de
+encontrar exatamente a informação desejada.
 
 ------------------------------------------------------------------------
 
@@ -73,7 +74,7 @@ Ao utilizar a Internet:
 -   Desconfie de ofertas muito vantajosas.
 -   Nunca informe senhas em sites desconhecidos.
 -   Evite clicar em links enviados por pessoas desconhecidas.
--   Verifique as informações em fontes confiáveis.
+-   Verifique informações em fontes confiáveis.
 
 Nem tudo o que está na Internet é verdadeiro ou seguro.
 
@@ -91,22 +92,35 @@ Essas tarefas incluem:
 
 -   Responder perguntas;
 -   Traduzir idiomas;
--   Criar textos e imagens;
--   Reconhecer voz e imagens;
--   Organizar e analisar informações;
+-   Criar textos;
+-   Criar imagens;
+-   Reconhecer voz;
+-   Identificar objetos em fotografias;
+-   Organizar informações;
 -   Auxiliar na tomada de decisões.
 
-A IA não possui consciência ou sentimentos. Ela utiliza modelos
-matemáticos e grandes quantidades de dados para gerar respostas e
-executar tarefas.
+Ao contrário do que muitos imaginam, a IA não possui consciência,
+sentimentos ou vontade própria. Ela utiliza modelos matemáticos e
+grandes quantidades de dados para gerar respostas e executar tarefas.
 
-------------------------------------------------------------------------
+## A Inteligência Artificial é uma tecnologia nova?
+
+A ideia de criar máquinas capazes de pensar existe há muitas décadas.
+
+Os primeiros estudos sobre Inteligência Artificial começaram na década
+de 1950. Porém, naquela época os computadores eram muito lentos e
+possuíam pouca capacidade de processamento.
+
+Com a evolução dos computadores, da Internet e do armazenamento de
+dados, a IA passou a evoluir rapidamente, tornando-se cada vez mais
+presente em nosso cotidiano.
 
 ## Onde encontramos Inteligência Artificial?
 
-A IA já faz parte do nosso dia a dia, muitas vezes sem que percebamos.
+Mesmo quem nunca utilizou o ChatGPT provavelmente já utilizou alguma
+Inteligência Artificial.
 
-Exemplos:
+Ela está presente em diversos serviços, como:
 
 -   ChatGPT
 -   Gemini
@@ -118,163 +132,147 @@ Exemplos:
 -   Spotify
 -   YouTube
 -   Redes sociais
+-   Google Maps
+-   Corretores ortográficos
+-   Reconhecimento facial em celulares
+-   Sistemas bancários de detecção de fraude
 
-Sempre que um sistema aprende padrões ou faz recomendações
-automaticamente, há grandes chances de utilizar Inteligência Artificial.
+Na maioria das vezes, utilizamos IA sem perceber.
 
-------------------------------------------------------------------------
+## Inteligência Artificial na ficção e na vida real
+
+Quando pensamos em Inteligência Artificial, é comum lembrar de filmes e
+séries.
+
+Na ficção, normalmente encontramos robôs extremamente inteligentes,
+capazes de conversar, tomar decisões próprias e até desenvolver emoções.
+
+Exemplos famosos incluem HAL 9000, JARVIS, TARS e Data.
+
+Na vida real, a IA é muito diferente.
+
+Ela normalmente é especializada em tarefas específicas. Por exemplo:
+
+-   Uma IA pode criar imagens, mas não dirigir um carro.
+-   Outra pode traduzir textos, mas não jogar xadrez.
+-   Outra pode conversar com pessoas, mas não controlar um robô.
+
+A Inteligência Artificial atual é uma ferramenta especializada, e não
+uma máquina consciente como costuma aparecer na ficção científica.
 
 ## Como a IA funciona?
 
 A Inteligência Artificial:
 
--   Analisa grandes quantidades de informações;
--   Identifica padrões nos dados;
+-   Analisa enormes quantidades de informações;
+-   Aprende padrões existentes nesses dados;
 -   Compara situações semelhantes;
--   Gera respostas com base no que aprendeu durante seu treinamento.
+-   Calcula probabilidades;
+-   Gera respostas com base em seu treinamento.
 
 Ela não pensa como um ser humano.
 
-Ela calcula probabilidades para produzir a resposta que considera mais
-adequada para cada solicitação.
-
-Por isso, suas respostas podem estar corretas, incompletas ou até
+Isso significa que pode produzir respostas corretas, incompletas ou até
 incorretas.
-
-------------------------------------------------------------------------
 
 ## Google × Inteligência Artificial
 
-  -----------------------------------------------------------------------
-  Google             Inteligência Artificial
-  ------------------ ----------------------------------------------------
-  Procura páginas da Gera uma resposta diretamente
-  Internet           
+  Google                        Inteligência Artificial
+  ----------------------------- ----------------------------------
+  Procura páginas da Internet   Gera uma resposta diretamente
+  Exibe vários sites            Conversa com o usuário
+  O usuário escolhe a fonte     Resume informações
+  Excelente para pesquisa       Excelente para explicar assuntos
 
-  Exibe vários       Conversa com o usuário
-  resultados         
-
-  O usuário escolhe  A IA resume informações
-  a fonte            
-
-  Ideal para         Ideal para explicar assuntos
-  encontrar sites    
-
-  Mostra diferentes  Produz uma resposta baseada em seu treinamento
-  opiniões           
-  -----------------------------------------------------------------------
-
-O Google e a IA não são concorrentes. Eles são ferramentas diferentes e
-podem ser utilizados em conjunto.
-
-------------------------------------------------------------------------
+As duas ferramentas são complementares e podem ser utilizadas em
+conjunto.
 
 ## O que é um Prompt?
 
 Prompt é o nome dado ao comando ou pergunta enviada para uma
 Inteligência Artificial.
 
-Quanto mais claro e detalhado for o prompt, melhores tendem a ser as
-respostas.
+Quanto mais claro e detalhado for o prompt, maiores são as chances de
+obter uma resposta útil.
 
 ### Exemplo
 
-Pouco específico:
+**Pouco específico**
 
 > Computador
 
-Mais específico:
+**Mais específico**
 
 > Explique o que é um computador utilizando uma linguagem simples para
 > um aluno iniciante.
-
-------------------------------------------------------------------------
 
 ## Como escrever bons prompts
 
 Um bom prompt normalmente informa:
 
--   O assunto desejado;
--   O objetivo da resposta;
--   O nível de conhecimento do público;
--   O formato esperado.
+-   O assunto;
+-   O objetivo;
+-   O público;
+-   O formato desejado;
+-   O nível de detalhamento esperado.
 
 Exemplo:
 
 > Faça um resumo em cinco linhas sobre a Revolução Industrial para um
 > aluno do Ensino Médio.
 
-Quanto mais contexto for fornecido, maior a chance de obter uma resposta
-útil.
-
-------------------------------------------------------------------------
-
-## Cuidados ao utilizar Inteligência Artificial
-
-Apesar de ser uma ferramenta poderosa, a IA pode:
-
--   Cometer erros;
--   Apresentar informações desatualizadas;
--   Gerar respostas incorretas com aparência de verdade;
--   Omitir informações importantes.
-
-Boas práticas:
-
--   Verifique informações importantes em fontes confiáveis.
--   Não compartilhe senhas ou dados pessoais.
--   Utilize a IA como apoio, e não como única fonte de informação.
-
-------------------------------------------------------------------------
-
 ## O que a Inteligência Artificial pode fazer?
-
-A IA pode auxiliar em diversas atividades, como:
 
 -   Responder perguntas;
 -   Traduzir textos;
 -   Criar apresentações;
 -   Escrever e-mails;
 -   Resumir documentos;
--   Gerar ideias;
 -   Programar;
 -   Criar imagens;
--   Explicar conteúdos;
+-   Explicar conteúdos escolares;
+-   Organizar informações;
+-   Gerar ideias para projetos;
 -   Auxiliar nos estudos.
-
-Ela é uma ferramenta para aumentar a produtividade e facilitar tarefas
-do dia a dia.
-
-------------------------------------------------------------------------
 
 ## Limitações da Inteligência Artificial
 
-A Inteligência Artificial possui limitações importantes.
-
 Ela:
 
--   Não substitui o pensamento crítico;
+-   Não possui consciência;
+-   Não possui emoções;
 -   Não garante que todas as respostas estejam corretas;
--   Não toma decisões pelo usuário;
--   Não conhece informações pessoais, a menos que sejam informadas
-    durante a conversa.
+-   Pode apresentar informações desatualizadas;
+-   Pode gerar respostas incorretas com aparência de verdade;
+-   Não substitui o pensamento crítico nem profissionais especializados.
 
-O usuário continua sendo responsável por verificar as informações e
-decidir como utilizá-las.
-
-------------------------------------------------------------------------
-
-## Boas práticas ao utilizar IA
-
-Sempre que utilizar uma Inteligência Artificial:
+## Cuidados ao utilizar Inteligência Artificial
 
 -   Faça perguntas claras e objetivas.
--   Informe o contexto da sua solicitação.
+-   Informe o contexto da solicitação.
 -   Revise a resposta recebida.
--   Confirme informações importantes em outras fontes.
--   Nunca compartilhe dados pessoais, senhas ou informações sigilosas.
+-   Confirme informações importantes em fontes confiáveis.
+-   Nunca compartilhe senhas ou dados pessoais.
+-   Utilize a IA como ferramenta de apoio.
 
-A IA é uma excelente ferramenta de apoio, mas deve ser utilizada com
-responsabilidade.
+## O futuro da Inteligência Artificial
+
+A tendência é que a IA esteja cada vez mais presente em áreas como
+educação, medicina, engenharia, agricultura, transporte, indústria e
+pesquisa científica.
+
+Ao mesmo tempo, habilidades humanas como criatividade, comunicação,
+ética e pensamento crítico continuarão sendo fundamentais.
+
+## Resumo
+
+-   A Internet conecta computadores do mundo inteiro.
+-   Os navegadores permitem acessar páginas da Web.
+-   A IA já faz parte do nosso cotidiano.
+-   A IA atual é muito diferente da mostrada na maioria dos filmes.
+-   A IA não pensa como um ser humano.
+-   Bons prompts produzem respostas melhores.
+-   Devemos utilizar a IA com responsabilidade.
 
 # Atividade -- Explorando a Inteligência Artificial
 
@@ -284,22 +282,17 @@ responsabilidade.
     outra disponível).
 2.  Crie um documento do Microsoft Word chamado **Atividade --
     Inteligência Artificial**.
-3.  Pesquise, utilizando a IA, as seguintes questões:
-
--   O que é um computador?
--   O que é a Internet?
--   O que é um navegador?
--   O que é Inteligência Artificial?
--   Quais profissões utilizam IA atualmente?
--   Como criar uma senha segura?
--   Como a IA pode ajudar nos estudos?
--   Faça um resumo sobre um tema de sua escolha.
-
-4.  Copie as perguntas e as respostas para o documento.
-
-5.  Ao final, escreva um texto de **5 a 10 linhas** respondendo:
-
-> Quais são as principais vantagens e quais cuidados devemos ter ao
-> utilizar uma Inteligência Artificial?
-
+3.  Pesquise:
+    -   O que é um computador?
+    -   O que é a Internet?
+    -   O que é um navegador?
+    -   O que é Inteligência Artificial?
+    -   Quais profissões utilizam IA atualmente?
+    -   Como criar uma senha segura?
+    -   Como a IA pode ajudar nos estudos?
+    -   Faça um resumo sobre um tema de sua escolha.
+4.  Copie as perguntas e respostas para o documento.
+5.  Escreva um texto de 5 a 10 linhas respondendo: **Quais são as
+    principais vantagens e quais cuidados devemos ter ao utilizar uma
+    Inteligência Artificial?**
 6.  Salve o documento na pasta **Documentos**.
